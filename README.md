@@ -40,6 +40,7 @@ The Smart Bottle system effectively monitors fluid and electrolyte levels, provi
 - When levels drop below predefined thresholds:
   - **Red LED** lights up.
   - **Buzzer sounds** for both visual and audible alerts.
+  - **Notifications** Notifies the alert to specifed personnel through messages and calls
 
 ### ⚠️ Medium Fluid Levels:
 - For cautionary levels:
